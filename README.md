@@ -1,2 +1,2 @@
 # linux
-learn git
+hello i just learn git
