@@ -1,0 +1,5 @@
+When you move the file.c to the /usr/local/bin directory in Ubuntu, it becomes executable from any location because /usr/local/bin is in the system's PATH environment variable.
+
+The PATH environment variable contains a list of directories where the system looks for executable files when a command is entered. When you move the file.c to /usr/local/bin, it is included in the PATH, allowing it to be executed from any location without specifying its full path.
+
+So, when you type the filename in the terminal, the system will search for it in all directories listed in the PATH, and if it finds a matching executable file in /usr/local/bin, it will be executed.

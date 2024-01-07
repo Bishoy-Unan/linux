@@ -1,0 +1,4 @@
+/home/unan/iti/cmake_calc/build/CMakeFiles/operation.dir
+/home/unan/iti/cmake_calc/build/CMakeFiles/Calculator.dir
+/home/unan/iti/cmake_calc/build/CMakeFiles/edit_cache.dir
+/home/unan/iti/cmake_calc/build/CMakeFiles/rebuild_cache.dir
